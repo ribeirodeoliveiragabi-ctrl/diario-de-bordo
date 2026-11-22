@@ -4,5 +4,5 @@ Este é meu diário de aprendizagem, onde vou registrar meus conhecimentos, desc
 
 ##Aulas
 Aulas
-Aula 01 — Meu primeiro registro
-Aula 02 — Minha checklist de aprendizagem
+- [Aula 01 — Meu primeiro registro](aulas/aula-01.md)
+- [Aula 02 — Minha checklist de aprendizagem](aulas/aula-02.md)
